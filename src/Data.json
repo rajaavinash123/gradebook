@@ -1,0 +1,202 @@
+[
+    {
+        "Id": 1,
+        "Name" : "Sai",
+        "Ticket_Number" : "CSE101",
+        "Ticket_Topic" : "C Language",
+        "Exam_Grade" : 8,
+        "Rating_Grade" : 8,
+        "Final_Grade" : 8,
+        "status" : "pass"
+    },
+    {
+        "Id": 2,
+        "Name" : "Charan",
+        "Ticket_Number" : "CSE202",
+        "Ticket_Topic" : "C++ Language",
+        "Exam_Grade" : 2,
+        "Rating_Grade" : 3,
+        "Final_Grade" : 2.5,
+        "status" : "Fail"
+    },
+    {
+        "Id": 3,
+        "Name" : "Srinivas",
+        "Ticket_Number" : "CSE205",
+        "Ticket_Topic" : "DSA",
+        "Exam_Grade" : 7,
+        "Rating_Grade" : 8,
+        "Final_Grade" : 7.5,
+        "status" : "pass"
+    },
+    {
+        "Id": 4,
+        "Name" : "Prasad",
+        "Ticket_Number" : "CSE408",
+        "Ticket_Topic" : "Algortihms",
+        "Exam_Grade" : 7,
+        "Rating_Grade" : 7,
+        "Final_Grade" : 7,
+        "status" : "pass"
+    },
+    {
+        "Id": 5,
+        "Name" : "Rupendra",
+        "Ticket_Number" : "CSE211",
+        "Ticket_Topic" : "Computer Architecture",
+        "Exam_Grade" : 8,
+        "Rating_Grade" : 6,
+        "Final_Grade" : 7,
+        "status" : "pass"
+    },
+    {
+        "Id": 6,
+        "Name" : "Venu",
+        "Ticket_Number" : "INT306",
+        "Ticket_Topic" : "DBMS",
+        "Exam_Grade" : 7,
+        "Rating_Grade" : 6,
+        "Final_Grade" : 6.5,
+        "status" : "pass"
+    },
+    {
+        "Id": 7,
+        "Name" : "Satish",
+        "Ticket_Number" : "CSE320",
+        "Ticket_Topic" : "Software Engineering",
+        "Exam_Grade" : 3,
+        "Rating_Grade" : 4,
+        "Final_Grade" : 3.5,
+        "status" : "Fail"
+    },
+    {
+        "Id": 8,
+        "Name" : "Avinash",
+        "Ticket_Number" : "CSE306",
+        "Ticket_Topic" : "Networks",
+        "Exam_Grade" : 6,
+        "Rating_Grade" : 2,
+        "Final_Grade" : 4,
+        "status" : "Fail"
+    },
+    {
+        "Id": 9,
+        "Name" : "Likith",
+        "Ticket_Number" : "CSE307",
+        "Ticket_Topic" : "Networks Lab",
+        "Exam_Grade" : 5,
+        "Rating_Grade" : 2,
+        "Final_Grade" : 3.5,
+        "status" : "Fail"
+    },
+    {
+        "Id": 10,
+        "Name" : "Sai Varma",
+        "Ticket_Number" : "CSE310",
+        "Ticket_Topic" : "Java",
+        "Exam_Grade" : 5,
+        "Rating_Grade" : 5,
+        "Final_Grade" : 5,
+        "status" : "pass"
+    },
+    {
+        "Id": 11,
+        "Name" : "Subba Rao",
+        "Ticket_Number" : "CSE316",
+        "Ticket_Topic" : "Operating Systems",
+        "Exam_Grade" : 8,
+        "Rating_Grade" : 4,
+        "Final_Grade" : 6,
+        "status" : "pass"
+    },
+    {
+        "Id": 12,
+        "Name" : "Upendra",
+        "Ticket_Number" : "CSE325",
+        "Ticket_Topic" : "OS Lab",
+        "Exam_Grade" : 2,
+        "Rating_Grade" : 8,
+        "Final_Grade" : 5,
+        "status" : "pass"
+    },
+    {
+        "Id": 13,
+        "Name" : "Sri Ram",
+        "Ticket_Number" : "CSE322",
+        "Ticket_Topic" : "Automation",
+        "Exam_Grade" : 9,
+        "Rating_Grade" : 8,
+        "Final_Grade" : 8.5,
+        "status" : "pass"
+    },
+    {
+        "Id": 14,
+        "Name" : "Sai Kumar",
+        "Ticket_Number" : "PEA305",
+        "Ticket_Topic" : "Analytics 1",
+        "Exam_Grade" : 2,
+        "Rating_Grade" : 5,
+        "Final_Grade" : 3.5,
+        "status" : "Fail"
+    },
+    {
+        "Id": 15,
+        "Name" : "Sai Charan",
+        "Ticket_Number" : "PEA306",
+        "Ticket_Topic" : "Analytics 2",
+        "Exam_Grade" : 9,
+        "Rating_Grade" : 9,
+        "Final_Grade" : 9,
+        "status" : "pass"
+    },
+    {
+        "Id": 16,
+        "Name" : "Teja",
+        "Ticket_Number" : "INT219",
+        "Ticket_Topic" : "Front End",
+        "Exam_Grade" : 8,
+        "Rating_Grade" : 8,
+        "Final_Grade" : 8,
+        "status" : "pass"
+    },
+    {
+        "Id": 17,
+        "Name" : "Manoj",
+        "Ticket_Number" : "INT220",
+        "Ticket_Topic" : "Server Side",
+        "Exam_Grade" : 3,
+        "Rating_Grade" : 4,
+        "Final_Grade" : 3.5,
+        "status" : "Fail"
+    },
+    {
+        "Id": 18,
+        "Name" : "Likith Sai",
+        "Ticket_Number" : "INT221",
+        "Ticket_Topic" : "MVC Programing",
+        "Exam_Grade" : 8,
+        "Rating_Grade" : 9,
+        "Final_Grade" : 8.5,
+        "status" : "pass"
+    },
+    {
+        "Id": 19,
+        "Name" : "Raja Avinash",
+        "Ticket_Number" : "INT222",
+        "Ticket_Topic" : "Advanced Web",
+        "Exam_Grade" : 7,
+        "Rating_Grade" : 6,
+        "Final_Grade" : 6.5,
+        "status" : "pass"
+    },
+    {
+        "Id": 20,
+        "Name" : "Sunny",
+        "Ticket_Number" : "INT213",
+        "Ticket_Topic" : "Python",
+        "Exam_Grade" : 3,
+        "Rating_Grade" : 5,
+        "Final_Grade" : 4,
+        "status" : "Fail"
+    }
+]

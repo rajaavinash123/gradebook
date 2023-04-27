@@ -1,0 +1,48 @@
+table{
+    width: 100%;
+}
+td{
+    text-align: center;
+}
+table, th, tr, td{
+    border: solid black 2px;
+    border-collapse: collapse;
+}
+input{
+    width: 70%;
+    margin-left: 15%;
+    padding: 5px;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-top-left-radius: 2rem;
+    padding-left: 25px;
+}
+
+.filterbtns{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2rem;
+}
+.filterbtns button{
+    width: 5rem;
+    height: 2rem;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
+.filterbtns button:hover{
+    width: 5rem;
+    height: 2rem;
+    background-color: rgb(174, 114, 231);
+    border: none;
+    border-radius: 0.5rem;
+}
+.tablebtns{
+    display: flex;
+    justify-content: space-around;
+    border: none;
+    margin: .5rem;
+}
